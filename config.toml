@@ -1,6 +1,6 @@
-baseURL = "https://makealinux.app/"
+baseURL = "https://dev.makealinux.app/"
 languageCode = "en-gb"
-title = "Make a Linux App"
+title = "Make a Linux App (dev)"
 theme = "hugo-swift-theme"
 [params]
 logo = ""
