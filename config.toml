@@ -1,0 +1,10 @@
+baseURL = "https://makealinux.app/"
+languageCode = "en-gb"
+title = "Make a Linux App"
+theme = "hugo-swift-theme"
+[params]
+logo = ""
+home = ""
+description = "Make a Linux app."
+author = "Alan Pope"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
